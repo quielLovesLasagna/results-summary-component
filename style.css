@@ -184,14 +184,13 @@ body {
   background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
 }
 
-/* Below 656 px (Mobile) */
+/* Below 656px (Mobile) */
 @media (max-width: 41em) {
   .container {
     grid-template-columns: 40rem;
   }
 }
 
-/* attribution */
 .attribution {
   font-size: 11px;
   text-align: center;
