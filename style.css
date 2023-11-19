@@ -199,14 +199,13 @@ body {
   opacity: 1;
 }
 
-/* Below 656 px (Mobile) */
+/* Below 656px (Mobile) */
 @media (max-width: 41em) {
   .container {
     grid-template-columns: 40rem;
   }
 }
 
-/* attribution */
 .attribution {
   font-size: 11px;
   text-align: center;
