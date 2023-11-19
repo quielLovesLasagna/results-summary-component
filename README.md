@@ -12,8 +12,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -36,7 +34,8 @@ Users should be able to:
 
 ## My process
 
-> I came across a problem when I implemented the hover state of the button. The transtion property does not work at all (?) and when I hover out from the button it flickers.
+> I encountered a problem when I implemented the button's hover state. The transition property does not work at all (?) and flickers when I hover out from the button.
+> Edit: I found a quick solution for transitioning gradients, [check this out](https://css-tricks.com/transitioning-gradients/?fbclid=IwAR2zU4sbRHEpr0GKOiKsRcF1kLfUrMBRauKjvdaMsAJOb0Am6rkSV4nqzEA)
 
 ### Built with
 
