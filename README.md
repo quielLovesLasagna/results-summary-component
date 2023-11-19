@@ -25,14 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![preview 1](./preview-img/screenshot.png)
+![preview 2](./preview-img/screenshot2.png)
+![preview 3](./preview-img/screenshot3.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/quielLovesLasagna/results-summary-component](https://github.com/quielLovesLasagna/results-summary-component)
+- Live Site URL: [https://quiel-results-summary-component.netlify.app/](https://quiel-results-summary-component.netlify.app/)
 
 ## My process
 
@@ -47,4 +47,4 @@ Users should be able to:
 ## Author
 
 - Website - [quielLovesLasagna](https://github.com/quielLovesLasagna)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/quielLovesLasagna)
+- Frontend Mentor - [@quielLovesLasagna](https://www.frontendmentor.io/profile/quielLovesLasagna)
