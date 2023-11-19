@@ -36,7 +36,6 @@ Users should be able to:
 
 ## My process
 
-> ![important]
 > I came across a problem when I implemented the hover state of the button. The transtion property does not work at all (?) and when I hover out from the button it flickers.
 
 ### Built with
